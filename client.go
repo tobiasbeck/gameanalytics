@@ -12,7 +12,8 @@ import (
 	"runtime"
 	"sync"
 	"time"
-	"tobiasbeck/gameanalytics/events"
+
+	"github.com/tobiasbeck/gameanalytics/events"
 
 	"github.com/google/uuid"
 )
