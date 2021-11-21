@@ -1,4 +1,4 @@
-module tobiasbeck/gameanalytics
+module github.com/tobiasbeck/gameanalytics
 
 go 1.16
 
