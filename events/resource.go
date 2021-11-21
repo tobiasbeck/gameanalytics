@@ -30,7 +30,7 @@ func (e Ressource) eventId() string {
 
 func (e Ressource) MarshalJSON() ([]byte, error) {
 	data := map[string]interface{}{
-		"category":     "ressource",
+		"category":     "resource",
 		"device":       "unknown",
 		"v":            2,
 		"user_id":      e.UserId,
